@@ -22,3 +22,4 @@ Company Manager provides a clean and efficient interface for administrators to o
 2. Open your terminal in that folder and run:
    ```bash
    gcc ex_5.c -o CompanyManager
+   .\CompanyManager.exe
